@@ -13,5 +13,6 @@ and this is inside of a topic that is repo info which will be scraped
  
 # Output from the project
 - Get .csv file for each topic in the target folder.
+- And target folder is:- <b>shared_data</b>
 # To see the result
-- One single method is created for simplicity that is "scrap_github()".
+- One single method is created for simplicity that is <b>scrap_github()</b>.
